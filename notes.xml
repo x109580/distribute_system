@@ -1,0 +1,15 @@
+<notes>
+    <note topic="Topic1">
+        <entry timestamp="2021-03-09T12:00:00">
+            <text>Note text for Topic1 at first entry.</text>
+        </entry>
+        <entry timestamp="2021-03-10T15:00:00">
+            <text>Another note text for Topic1 at second entry.</text>
+        </entry>
+    </note>
+    <note topic="Topic2">
+        <entry timestamp="2021-03-11T17:00:00">
+            <text>Note text for Topic2.</text>
+        </entry>
+    </note>
+</notes>
